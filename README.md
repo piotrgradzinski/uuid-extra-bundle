@@ -6,6 +6,10 @@ A convenient bundle for using ramsey/uuid in your project
 [![License](https://poser.pugx.org/ekreative/uuid-extra-bundle/license.png)](https://packagist.org/packages/ekreative/uuid-extra-bundle)
 [![Build Status](https://travis-ci.org/ekreative/uuid-extra-bundle.svg?branch=master)](https://travis-ci.org/ekreative/uuid-extra-bundle)
 
+## Disclaimer
+
+This repository is a fork of [ekreative/uuid-extra-bundle](https://github.com/ekreative/uuid-extra-bundle) with some updates as the original project is not updated for some time now.
+
 ## Install
 
 ### Composer
