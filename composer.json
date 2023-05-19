@@ -1,9 +1,9 @@
 {
-  "name": "ekreative/uuid-extra-bundle",
+  "name": "piotrgradzinski/uuid-extra-bundle",
   "description": "Paramconverter, Normalizer and Form Type for Ramsey Uuid",
   "type": "symfony-bundle",
   "keywords": ["uuid", "identifier", "guid", "paramconverter", "param", "converter", "symfony", "bundle", "ramsey", "form", "normalizer", "denormalizer"],
-  "homepage": "https://github.com/ekreative/uuid-extra-bundle",
+  "homepage": "https://github.com/piotrgradzinski/uuid-extra-bundle",
   "license": "MIT",
   "require": {
     "php": "^8.1",
